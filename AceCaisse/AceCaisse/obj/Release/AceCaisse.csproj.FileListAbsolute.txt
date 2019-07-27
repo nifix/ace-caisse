@@ -1,0 +1,11 @@
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\bin\Release\AceCaisse.exe.config
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\bin\Release\AceCaisse.exe
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\bin\Release\AceCaisse.pdb
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.csprojAssemblyReference.cache
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.csproj.ResolveComReference.cache
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.Main.resources
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.Properties.Resources.resources
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.csproj.GenerateResource.cache
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.csproj.CoreCompileInputs.cache
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.exe
+C:\Users\Nifix\source\repos\AceCaisse\AceCaisse\obj\Release\AceCaisse.pdb
