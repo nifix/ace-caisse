@@ -4,7 +4,7 @@ importée en comptabilité en compte 530 (Caisse).
 
 ## Utilisation
 
-Il suffit juste de lancer l'exécutable se laisser guider.
+Il suffit juste de lancer l'exécutable et se laisser guider.
 
 ## Development setup
 
