@@ -6,6 +6,10 @@ importée en comptabilité en compte 530 (Caisse).
 
 Il suffit juste de lancer l'exécutable et se laisser guider.
 
+## Interface
+
+![UI-AceCaisse](https://i.imgur.com/NJi9fZz.png)
+
 ## Development setup
 
 Si vous voulez le build vous même il vous faudra les Visual Studio Office Tools pour la gestion de Excel Interop.
